@@ -1,0 +1,12 @@
+/* CardWide */
+
+  
+  .card-wide {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    background: white;
+    overflow: hidden;
+    margin: 5px;
+  }

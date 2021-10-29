@@ -1,0 +1,40 @@
+/* Number picker */
+.number-picker {
+    border-radius: 5px;
+    color: white;
+    height: 40px;
+    overflow: hidden;
+    background: #009f7f;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .btn-num-picker {
+    border: none;
+    background: #009f7f;
+    color: white;
+    font-size: 22px;
+    padding: 0 20px;
+    cursor: pointer;
+    
+  }
+  
+  .input-num-picker {
+    color: white;
+    background: #009f7f;
+    border: none;
+    text-align: center;
+    width: 40px;
+  }
+  
+  .btn-num-picker:hover {
+    background: #04755f;
+  }
+  
+  .label-num-picker {
+    width: 100%;
+    text-align: center;
+    padding-top: 7px;
+    cursor: pointer;
+  }
+  
