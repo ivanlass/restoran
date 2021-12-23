@@ -1,0 +1,950 @@
+{
+  "ethereum.dexTrades": [
+    {
+      "timeInterval": {
+        "minute": "2021-05-23 00:00:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 36244851541.627914,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.20175097621461077,
+      "trades": 2,
+      "quotePrice": 5.56633473813228e-12,
+      "maximum_price": 5.613232751601634e-12,
+      "minimum_price": 5.565343791316775e-12,
+      "open_price": "5.613232751601634e-12",
+      "close_price": "5.613232751601634e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-23 00:50:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 199342655450.15512,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 1.0508147189757602,
+      "trades": 2,
+      "quotePrice": 5.271399222624044e-12,
+      "maximum_price": 5.517736103710569e-12,
+      "minimum_price": 5.270468912988997e-12,
+      "open_price": "5.270468912988997e-12",
+      "close_price": "5.270468912988997e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-23 00:55:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 11597861538.3491,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.059,
+      "trades": 1,
+      "quotePrice": 5.087144712403453e-12,
+      "maximum_price": 5.087144712403453e-12,
+      "minimum_price": 5.087144712403453e-12,
+      "open_price": "5.087144712403453e-12",
+      "close_price": "5.087144712403453e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-23 02:15:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 21289382753.53093,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.10723090156854967,
+      "trades": 2,
+      "quotePrice": 5.036825295029514e-12,
+      "maximum_price": 5.060136908252035e-12,
+      "minimum_price": 5.035974066434834e-12,
+      "open_price": "5.060136908252035e-12",
+      "close_price": "5.060136908252035e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-23 02:35:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 22633056634.574596,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.1128798846793327,
+      "trades": 2,
+      "quotePrice": 4.987390192224222e-12,
+      "maximum_price": 5.0118637890610055e-12,
+      "minimum_price": 4.986551406403113e-12,
+      "open_price": "4.986551406403113e-12",
+      "close_price": "4.986551406403113e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-23 03:55:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 22777315389.008373,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.11449244,
+      "trades": 1,
+      "quotePrice": 5.026599405795229e-12,
+      "maximum_price": 5.026599405795229e-12,
+      "minimum_price": 5.026599405795229e-12,
+      "open_price": "5.026599405795229e-12",
+      "close_price": "5.026599405795229e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-23 04:10:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 317602913.8997038,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.001604781400610327,
+      "trades": 1,
+      "quotePrice": 5.052791805043397e-12,
+      "maximum_price": 5.052791805043397e-12,
+      "minimum_price": 5.052791805043397e-12,
+      "open_price": "5.052791805043397e-12",
+      "close_price": "5.052791805043397e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-23 08:50:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 81967330356.62793,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.4035613053203099,
+      "trades": 2,
+      "quotePrice": 4.9234408826598774e-12,
+      "maximum_price": 5.013105839700995e-12,
+      "minimum_price": 4.922612873200744e-12,
+      "open_price": "4.922612873200744e-12",
+      "close_price": "4.922612873200744e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-23 09:00:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 30578546444.38862,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.15,
+      "trades": 1,
+      "quotePrice": 4.905399943479854e-12,
+      "maximum_price": 4.905399943479854e-12,
+      "minimum_price": 4.905399943479854e-12,
+      "open_price": "4.905399943479854e-12",
+      "close_price": "4.905399943479854e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-23 09:45:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 40133801295.400024,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.2,
+      "trades": 1,
+      "quotePrice": 4.983330597765311e-12,
+      "maximum_price": 4.983330597765311e-12,
+      "minimum_price": 4.983330597765311e-12,
+      "open_price": "4.983330597765311e-12",
+      "close_price": "4.983330597765311e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-23 10:15:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 201779481490.36636,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.9632614206319093,
+      "trades": 2,
+      "quotePrice": 4.773832371444064e-12,
+      "maximum_price": 4.9884684709020325e-12,
+      "minimum_price": 4.773031607927191e-12,
+      "open_price": "4.773031607927191e-12",
+      "close_price": "4.773031607927191e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-23 10:20:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 221037022272.59793,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.963900417688558,
+      "trades": 2,
+      "quotePrice": 4.360809821713082e-12,
+      "maximum_price": 4.566343150146188e-12,
+      "minimum_price": 4.3601100528627216e-12,
+      "open_price": "4.566343150146188e-12",
+      "close_price": "4.566343150146188e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-23 11:25:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 434178046911.98016,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 2,
+      "trades": 1,
+      "quotePrice": 4.606405170009563e-12,
+      "maximum_price": 4.606405170009563e-12,
+      "minimum_price": 4.606405170009563e-12,
+      "open_price": "4.606405170009563e-12",
+      "close_price": "4.606405170009563e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-23 17:05:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 222486425805.45285,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 1.0634622693569005,
+      "trades": 2,
+      "quotePrice": 4.779897315114478e-12,
+      "maximum_price": 5.017521472336792e-12,
+      "minimum_price": 4.779093576543924e-12,
+      "open_price": "5.017521472336792e-12",
+      "close_price": "5.017521472336792e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-23 18:30:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 398318444951.55597,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 1.997994412091514,
+      "trades": 1,
+      "quotePrice": 5.0160730375780435e-12,
+      "maximum_price": 5.0160730375780435e-12,
+      "minimum_price": 5.0160730375780435e-12,
+      "open_price": "5.0160730375780435e-12",
+      "close_price": "5.0160730375780435e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-23 20:05:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 91038589917.16461,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.4852262960365628,
+      "trades": 2,
+      "quotePrice": 5.329896876457191e-12,
+      "maximum_price": 5.442224966449607e-12,
+      "minimum_price": 5.328963800998027e-12,
+      "open_price": "5.442224966449607e-12",
+      "close_price": "5.442224966449607e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-23 23:00:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 29948019181.141354,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.15859398668155772,
+      "trades": 1,
+      "quotePrice": 5.2956419495492505e-12,
+      "maximum_price": 5.2956419495492505e-12,
+      "minimum_price": 5.2956419495492505e-12,
+      "open_price": "5.2956419495492505e-12",
+      "close_price": "5.2956419495492505e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-23 23:15:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 46381517857.23066,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.25,
+      "trades": 1,
+      "quotePrice": 5.390078021369156e-12,
+      "maximum_price": 5.390078021369156e-12,
+      "minimum_price": 5.390078021369156e-12,
+      "open_price": "5.390078021369156e-12",
+      "close_price": "5.390078021369156e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-23 23:35:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 54361633101.67404,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.3,
+      "trades": 1,
+      "quotePrice": 5.51859800530462e-12,
+      "maximum_price": 5.51859800530462e-12,
+      "minimum_price": 5.51859800530462e-12,
+      "open_price": "5.51859800530462e-12",
+      "close_price": "5.51859800530462e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 00:50:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 11596623243.298233,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.065,
+      "trades": 1,
+      "quotePrice": 5.605079913031058e-12,
+      "maximum_price": 5.605079913031058e-12,
+      "minimum_price": 5.605079913031058e-12,
+      "open_price": "5.605079913031058e-12",
+      "close_price": "5.605079913031058e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 02:30:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 44015776975.572205,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.25,
+      "trades": 1,
+      "quotePrice": 5.679781596011461e-12,
+      "maximum_price": 5.679781596011461e-12,
+      "minimum_price": 5.679781596011461e-12,
+      "open_price": "5.679781596011461e-12",
+      "close_price": "5.679781596011461e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 02:40:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 15522185763.29344,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.08942726443175883,
+      "trades": 1,
+      "quotePrice": 5.761254619387089e-12,
+      "maximum_price": 5.761254619387089e-12,
+      "minimum_price": 5.761254619387089e-12,
+      "open_price": "5.761254619387089e-12",
+      "close_price": "5.761254619387089e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 02:50:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 3455648936.905805,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.02,
+      "trades": 1,
+      "quotePrice": 5.787624948357179e-12,
+      "maximum_price": 5.787624948357179e-12,
+      "minimum_price": 5.787624948357179e-12,
+      "open_price": "5.787624948357179e-12",
+      "close_price": "5.787624948357179e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 03:45:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 41024283633.82236,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.24,
+      "trades": 1,
+      "quotePrice": 5.850193561993918e-12,
+      "maximum_price": 5.850193561993918e-12,
+      "minimum_price": 5.850193561993918e-12,
+      "open_price": "5.850193561993918e-12",
+      "close_price": "5.850193561993918e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 04:45:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 5071013693.432598,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.03,
+      "trades": 1,
+      "quotePrice": 5.91597692564952e-12,
+      "maximum_price": 5.91597692564952e-12,
+      "minimum_price": 5.91597692564952e-12,
+      "open_price": "5.91597692564952e-12",
+      "close_price": "5.91597692564952e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 04:55:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 34437011008.62539,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.20074838153838767,
+      "trades": 2,
+      "quotePrice": 5.829436866286292e-12,
+      "maximum_price": 5.877061731679138e-12,
+      "minimum_price": 5.828376557046166e-12,
+      "open_price": "5.828376557046166e-12",
+      "close_price": "5.828376557046166e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 05:20:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 27033403380.20155,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.1585171980000042,
+      "trades": 1,
+      "quotePrice": 5.863752919697023e-12,
+      "maximum_price": 5.863752919697023e-12,
+      "minimum_price": 5.863752919697023e-12,
+      "open_price": "5.863752919697023e-12",
+      "close_price": "5.863752919697023e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 05:25:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 19391970622.47668,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.115,
+      "trades": 1,
+      "quotePrice": 5.930289512026528e-12,
+      "maximum_price": 5.930289512026528e-12,
+      "minimum_price": 5.930289512026528e-12,
+      "open_price": "5.930289512026528e-12",
+      "close_price": "5.930289512026528e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 06:30:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 12548664255.48564,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.075,
+      "trades": 1,
+      "quotePrice": 5.976731743955443e-12,
+      "maximum_price": 5.976731743955443e-12,
+      "minimum_price": 5.976731743955443e-12,
+      "open_price": "5.976731743955443e-12",
+      "close_price": "5.976731743955443e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 07:00:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 5780304463.687734,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.034702840573137994,
+      "trades": 1,
+      "quotePrice": 6.003635412484517e-12,
+      "maximum_price": 6.003635412484517e-12,
+      "minimum_price": 6.003635412484517e-12,
+      "open_price": "6.003635412484517e-12",
+      "close_price": "6.003635412484517e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 07:15:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 11609928926.064442,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.07,
+      "trades": 1,
+      "quotePrice": 6.029322009271659e-12,
+      "maximum_price": 6.029322009271659e-12,
+      "minimum_price": 6.029322009271659e-12,
+      "open_price": "6.029322009271659e-12",
+      "close_price": "6.029322009271659e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 07:25:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 41474397500.23018,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.24636627425709864,
+      "trades": 2,
+      "quotePrice": 5.940201403907828e-12,
+      "maximum_price": 5.999469460282401e-12,
+      "minimum_price": 5.939109895008754e-12,
+      "open_price": "5.939109895008754e-12",
+      "close_price": "5.939109895008754e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 07:30:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 5056678183.416816,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.03,
+      "trades": 1,
+      "quotePrice": 5.932748518263208e-12,
+      "maximum_price": 5.932748518263208e-12,
+      "minimum_price": 5.932748518263208e-12,
+      "open_price": "5.932748518263208e-12",
+      "close_price": "5.932748518263208e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 08:35:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 49890618727.58058,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.3,
+      "trades": 1,
+      "quotePrice": 6.013154529874646e-12,
+      "maximum_price": 6.013154529874646e-12,
+      "minimum_price": 6.013154529874646e-12,
+      "open_price": "6.013154529874646e-12",
+      "close_price": "6.013154529874646e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 09:00:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 7112701646.064095,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.04289329260320482,
+      "trades": 2,
+      "quotePrice": 6.030520431985275e-12,
+      "maximum_price": 6.039954328983622e-12,
+      "minimum_price": 6.029408416501547e-12,
+      "open_price": "6.039954328983622e-12",
+      "close_price": "6.039954328983622e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 09:05:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 13090865700.238867,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.07966729,
+      "trades": 1,
+      "quotePrice": 6.085715935390456e-12,
+      "maximum_price": 6.085715935390456e-12,
+      "minimum_price": 6.085715935390456e-12,
+      "open_price": "6.085715935390456e-12",
+      "close_price": "6.085715935390456e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 09:30:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 36537069082.92874,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.21940594133306668,
+      "trades": 2,
+      "quotePrice": 6.005023031132512e-12,
+      "maximum_price": 6.057920656261569e-12,
+      "minimum_price": 6.003914440240229e-12,
+      "open_price": "6.057920656261569e-12",
+      "close_price": "6.057920656261569e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 12:05:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 41266485513.89337,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.25,
+      "trades": 1,
+      "quotePrice": 6.05818491414374e-12,
+      "maximum_price": 6.05818491414374e-12,
+      "minimum_price": 6.05818491414374e-12,
+      "open_price": "6.05818491414374e-12",
+      "close_price": "6.05818491414374e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 12:15:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 28881483360.424316,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.17803075757076567,
+      "trades": 1,
+      "quotePrice": 6.164183305581784e-12,
+      "maximum_price": 6.164183305581784e-12,
+      "minimum_price": 6.164183305581784e-12,
+      "open_price": "6.164183305581784e-12",
+      "close_price": "6.164183305581784e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 15:15:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 5629400549.684625,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.035,
+      "trades": 1,
+      "quotePrice": 6.217358258857741e-12,
+      "maximum_price": 6.217358258857741e-12,
+      "minimum_price": 6.217358258857741e-12,
+      "open_price": "6.217358258857741e-12",
+      "close_price": "6.217358258857741e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 15:20:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 64787940888.44373,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.41,
+      "trades": 1,
+      "quotePrice": 6.328338181112528e-12,
+      "maximum_price": 6.328338181112528e-12,
+      "minimum_price": 6.328338181112528e-12,
+      "open_price": "6.328338181112528e-12",
+      "close_price": "6.328338181112528e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 16:50:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 30848762226.671463,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.2,
+      "trades": 1,
+      "quotePrice": 6.483242294469839e-12,
+      "maximum_price": 6.483242294469839e-12,
+      "minimum_price": 6.483242294469839e-12,
+      "open_price": "6.483242294469839e-12",
+      "close_price": "6.483242294469839e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 17:30:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 1070947328.3311083,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.007,
+      "trades": 1,
+      "quotePrice": 6.536269165457769e-12,
+      "maximum_price": 6.536269165457769e-12,
+      "minimum_price": 6.536269165457769e-12,
+      "open_price": "6.536269165457769e-12",
+      "close_price": "6.536269165457769e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 18:35:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 13565414640.59058,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.089,
+      "trades": 1,
+      "quotePrice": 6.560802036503422e-12,
+      "maximum_price": 6.560802036503422e-12,
+      "minimum_price": 6.560802036503422e-12,
+      "open_price": "6.560802036503422e-12",
+      "close_price": "6.560802036503422e-12"
+    },
+    {
+      "timeInterval": {
+        "minute": "2021-05-24 20:40:00"
+      },
+      "baseCurrency": {
+        "symbol": "CHINU",
+        "address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+      },
+      "baseAmount": 7579767884.4426775,
+      "quoteCurrency": {
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      "quoteAmount": 0.05,
+      "trades": 1,
+      "quotePrice": 6.5965080675655e-12,
+      "maximum_price": 6.5965080675655e-12,
+      "minimum_price": 6.5965080675655e-12,
+      "open_price": "6.5965080675655e-12",
+      "close_price": "6.5965080675655e-12"
+    },
+   
+  ]
+}
